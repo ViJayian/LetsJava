@@ -7,7 +7,15 @@ public class MerchandiseV2 {
     public int count;
     public double soldPrice;
     public double purchasePrice;
+    private int privateFields;
 
+    private int getPrivateFields() {
+        return privateFields;
+    }
+
+    public void setPrivateFields(int privateFields) {
+        this.privateFields = privateFields;
+    }
 
     public MerchandiseV2(String name, String id, int count, double soldPrice, double purchasePrice) {
         this.name = name;

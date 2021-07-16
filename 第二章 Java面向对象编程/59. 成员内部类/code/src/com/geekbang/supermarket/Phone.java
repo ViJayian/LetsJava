@@ -16,7 +16,7 @@ public class Phone extends MerchandiseV2 {
     // >> TODO 成员内部类，不可以包含任何静态的成分，比如静态方法，静态变量，静态内部类。否则会造成内外部类初始化问题。
     // >> TODO 成员内部类，可以有访问控制符。成员内部类和成员方法，成员变量一样，都是类的组成部分
     public class CPU {
-        // >> TODO 可以有final static的基本数据类型变量
+        // >> TODO 可以有final static的 基本数据类型变量
         final static int abc = 999;
 
         private String producer;

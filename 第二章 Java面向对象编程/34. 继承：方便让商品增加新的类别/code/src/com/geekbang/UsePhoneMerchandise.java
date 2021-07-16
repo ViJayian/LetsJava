@@ -9,7 +9,7 @@ public class UsePhoneMerchandise {
             4.5,3.5,4,128,"索尼","安卓"
         );
 
-        // phoneExtendsMerchandise.describe();
+//         phoneExtendsMerchandise.describe();
 
         phoneExtendsMerchandise.describePhone();
     }

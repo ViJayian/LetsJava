@@ -11,6 +11,9 @@ public class ReferenceAssign {
             4.5, 3.5, 4, 128, "索尼", "安卓"
         );
 
+        MerchandiseV2 merchandiseV2 = ph;
+        Phone phone = (Phone) merchandiseV2;
+
         // >> TODO 可以用子类的引用给父类的引用赋值，也就是说，父类的引用可以指向子类的对象
 
         MerchandiseV2 m = ph;

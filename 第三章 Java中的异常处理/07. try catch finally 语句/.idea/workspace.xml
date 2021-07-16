@@ -2,38 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658ebe7b-b3d8-4e64-b4e9-5506af147eea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/NewAndThrowIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/NewAndThrowIt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/ThrowIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/code/src/com/geekbang/exception/ThrowIt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03. 抛出异常的语法/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../03. 抛出异常的语法/ppt.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerExceptionAppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04. Java 异常的传递/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../04. Java 异常的传递/ppt.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05. 自定义异常/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05. 自定义异常/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05. 自定义异常/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../05. 自定义异常/ppt.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/Caller3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerExceptionAppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/code/src/com/geekbang/exception/CallerRtExceptionAppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/ppt.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../06. 异常传递不是凌波微步/ppt.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/UsePhoneMerchandise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/LittleSuperMarket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/MerchandiseV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/code/src/com/geekbang/supermarket/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../07. try catch finally 语句和try finally 语句/ppt.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/07. try catch finally 语句.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07. try catch finally 语句.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/com/geekbang/exception/TryCatchFinallyAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/com/geekbang/exception/TryCatchFinallyAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/32. 重新认识老朋友：main方法和System类/code/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/UsePhoneMerchandise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/UsePhoneMerchandise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/supermarket/MerchandiseV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/supermarket/MerchandiseV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/supermarket/PhoneExtendsMerchandise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/34. 继承：方便让商品增加新的类别/code/src/com/geekbang/supermarket/PhoneExtendsMerchandise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/39. 父类和子类的引用赋值关系/code/src/com/geekbang/ReferenceAssign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/39. 父类和子类的引用赋值关系/code/src/com/geekbang/ReferenceAssign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../第二章 Java面向对象编程/59. 成员内部类/code/src/com/geekbang/supermarket/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../第二章 Java面向对象编程/59. 成员内部类/code/src/com/geekbang/supermarket/Phone.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,32 +31,58 @@
     <option name="width" value="1680" />
     <option name="height" value="949" />
   </component>
+  <component name="ProjectId" id="1vNRkkvbMisTTjVzoGqZSs60QP4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.TryCatchFinallyAppMain">
+    <configuration name="CatchMultiException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.exception.CatchMultiException" />
+      <module name="07. try catch finally 语句" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchFinallyAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekbang.exception.TryCatchFinallyAppMain" />
+      <module name="07. try catch finally 语句" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekbang.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.TryCatchFinallyAppMain" />
+        <item itemvalue="Application.CatchMultiException" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,53 +94,85 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560751202331</updated>
+      <workItem from="1626400706352" duration="399000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="949" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="397" y="121" key="FileChooserDialogImpl" timestamp="1626400799955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="397" y="121" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1626400799955" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1626401060692">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626401060692" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1626401060692">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1626401060692" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1626401060692">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1626401060692" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1626401060692">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1626401060692" />
+    <state width="1493" height="220" key="GridCell.Tab.1.bottom" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.1.center" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.1.left" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.1.right" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.2.bottom" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.2.center" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.2.left" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state width="1493" height="220" key="GridCell.Tab.2.right" timestamp="1626401060693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1626401060693" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1626400802840">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626400802840" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code/src/com/geekbang/exception/CatchMultiException.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code/src/com/geekbang/exception/TryCatchFinallyAppMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -8,6 +8,7 @@ package com.geekbang.supermarket;
 //    TODO 这时候，HuaweiPhone就是PhoneExtendsMerchandise的子类了。
 // >> TODO 子类继承了父类什么呢？所有的属性和方法。
 // >> TODO 但是子类并不能访问父类的private的成员（包括方法和属性）。
+//>> TODO 但是子类拥有（创建子类先创建父类，再在父类的基础上添加子类的属性和方法）.
 public class PhoneExtendsMerchandise extends MerchandiseV2 {
 
     // 给Phone增加新的属性和方法
@@ -99,4 +100,5 @@ public class PhoneExtendsMerchandise extends MerchandiseV2 {
     public void setOs(String os) {
         this.os = os;
     }
+
 }
