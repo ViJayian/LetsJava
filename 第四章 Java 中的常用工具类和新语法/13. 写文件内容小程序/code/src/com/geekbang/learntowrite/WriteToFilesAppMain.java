@@ -33,7 +33,7 @@ public class WriteToFilesAppMain {
             while (true) {
                 String lineToWrite = in.nextLine().trim();
                 System.out.println("输入内容为" + lineToWrite);
-                if (lineToWrite.trim().isBlank()) {
+                if ("".equals(lineToWrite.trim())) {
                     System.out.println("输入结束");
                     break;
                 } else {

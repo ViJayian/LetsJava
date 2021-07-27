@@ -11,7 +11,7 @@ public class DefineGenericTypesAppMain {
     public static void main(String[] args) throws NoSuchFieldException {
 
         Field field2 = MyGenericClass.class.getDeclaredField("first");
-        System.out.println("first的类型是" + field2.getType());
+        System.out.println("first的类型是" + field2.getType());//first的类型是class java.lang.Object
 
         MyGenericClass<String, Object> test = new MyGenericClass<>("inst1", new Object());
         MyGenericClass<String, Object> test2 = new MyGenericClass<>("inst2", "aaabbb");
